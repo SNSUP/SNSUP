@@ -42,6 +42,7 @@ SNSUP has a reseller API for automated orders. See the [API docs](https://snsup.
 - Website (English): https://snsup.to/en
 - Website (Korean / 한국어): https://snsup.to
 - About: https://snsup.to/en/about
+- Overview page: https://snsup.github.io
 - WhatsApp Channel: https://whatsapp.com/channel/0029VbDddX51CYoN3zwqZS2F
 - X: https://x.com/snsupto · Instagram: https://www.instagram.com/snsup.to/ · YouTube: https://www.youtube.com/@snsupto · TikTok: https://www.tiktok.com/@snsupto
 - Tumblr: https://www.tumblr.com/snsup · Blog (Tistory): https://snsup.tistory.com
